@@ -6,15 +6,15 @@ A stylish, glassmorphic web-based bio data form with floating effects and respon
 
 ## ✨ Interactive Bio Data Form  
 
-This project is a fully responsive, visually appealing **Bio Data Form** that allows users to enter their personal details such as name, contact info, age, and other essentials.  
-It features glowing input boxes, smooth transitions, and floating round contact buttons for quick access to your social profiles GitHub, Linkedin, Instagram, x, and so in Linktree.  
+- This project is a fully responsive, visually appealing **Bio Data Form** that allows users to enter their personal details such as name, contact info, age, and other essentials.  
+- It features glowing input boxes, smooth transitions, and floating round contact buttons for quick access to your social profiles GitHub, Linkedin, Instagram, x, and so in Linktree.  
 
 ---
 
 ## 🚀 Overview  
 
-The **Bio Data Form** is designed with elegance and interactivity in mind. It captures user input in a professional layout and enhances usability through subtle animations, smooth shadows, and stylish buttons.  
-Each field is carefully crafted to provide an engaging, futuristic interface inspired by glassmorphism and modern web trends.  
+- The **Bio Data Form** is designed with elegance and interactivity in mind. It captures user input in a professional layout and enhances usability through subtle animations, smooth shadows, and stylish buttons.  
+- Each field is carefully crafted to provide an engaging, futuristic interface inspired by glassmorphism and modern web trends.  
 
 ---
 
@@ -85,6 +85,6 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ---
 
-> Simple, Fast
+> 💬 “Simple. Fast. Elegant. — Power of arithmetic, refined through design.”
 
 ---
