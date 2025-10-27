@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bio Data</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://kit.fontawesome.com/a2b6f6e14e.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1 class="title">BIO DATA</h1>
+            <p class="subtitle">Your Personal & Professional Snapshot</p>
+        </header>
+
+        <form action="mailto:vinaalm898@gmail.com" method="POST" enctype="text/plain" class="biodata-form">
+            <h2 class="section-title">Personal Information</h2>
+
+            <div class="input-row">
+                <input type="text" name="First Name" placeholder="First Name" required />
+                <input type="text" name="Last Name" placeholder="Last Name" required />
+            </div>
+
+            <div class="input-row">
+                <input type="text" name="Father's Name" placeholder="Father's Name" required />
+                <input type="text" name="Mother's Name" placeholder="Mother's Name" required />
+            </div>
+
+            <div class="input-row">
+                <input type="number" name="Age" placeholder="Age" min="1" max="100" required />
+                <input type="date" name="Date of Birth" placeholder="Date of Birth" required />
+            </div>
+
+            <textarea name="Address" placeholder="Enter your Address" rows="3" required></textarea>
+
+            <div class="input-row">
+                <input type="tel" name="Phone Number" placeholder="Phone Number" required />
+                <input type="email" name="Email" placeholder="Email" required />
+            </div>
+
+            <div class="input-row">
+                <input type="text" name="Nationality" placeholder="Nationality" required />
+                <input type="text" name="Qualification" placeholder="Qualification" required />
+            </div>
+
+            <input type="text" name="Skill Set" placeholder="Skill Set (e.g. HTML, Python, Photoshop)" required />
+
+            <div class="input-row">
+                <select name="Gender" required>
+                    <option value="">Select Gender</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                    <option value="Other">Other</option>
+                </select>
+
+                <select name="Marital Status" required>
+                    <option value="">Marital Status</option>
+                    <option value="Single">Single</option>
+                    <option value="Married">Married</option>
+                </select>
+            </div>
+
+            <div class="button-group">
+                <button type="submit" class="btn primary">Submit</button>
+                <button type="reset" class="btn secondary">Reset</button>
+            </div>
+
+            <a href="https://linktr.ee/Darkxzz999" target="_blank" class="contact-float" title="Contact Me">
+                📞
+            </a>
+
+        </form>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

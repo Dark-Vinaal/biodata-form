@@ -1,0 +1,89 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+#one {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 40px;
+    font-style: 'Josephins-sans', sans-serif;
+    padding: 20px;
+}
+
+.outer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 100vw;
+    background-color: black;
+    color: white;
+    border: 6px solid black;
+    border-radius: 10px;
+    margin-top: 2px;
+
+}
+
+.frm {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 100vw;
+    /* Make form full viewport width */
+  /*  min-height: 100vh;
+    /* Make form at least full viewport height */
+  /*  background-color: rgb(240, 240, 240);
+    box-sizing: border-box;
+    /* Include padding and border in width */
+  /*  font-size: 2rem;
+    /* Adjust as needed 
+} */
+
+/* .input-fields {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+
+}
+
+input {
+    padding: 8px;
+}
+
+#pinfo {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.lable {
+    margin-bottom: 10px;
+    font-size: 38px;
+}
+
+.hwn,
+.hwp,
+.hwv {
+    display: flex;
+    gap: 20px;
+    width: 70%;
+    justify-content: space-between;
+}
+
+.txt {}
+
+#dateid {}
+
+#emailid {}
+
+#noid {}
+
+#drpdwn {} */
+
